@@ -1,0 +1,37 @@
+*Q1: Algorithmic Bias*
+
+*Definition:* Algorithmic bias refers to the unfair or discriminatory outcomes produced by AI systems due to flaws in their design, data, or training.
+
+*Examples:*
+
+1. *Facial recognition bias*: AI-powered facial recognition systems misidentifying individuals from certain demographics (e.g., racial or ethnic groups) due to biased training data.
+2. *Job candidate screening bias*: AI-driven recruitment tools unfairly rejecting job applicants from specific groups (e.g., women or minorities) due to biased algorithms or training data.
+
+*Q2: Transparency and Explainability*
+
+*Transparency:* Transparency in AI refers to providing clear and concise information about how AI systems work, including data sources, algorithms, and decision-making processes.
+
+*Explainability:* Explainability in AI refers to providing insights into why specific decisions or recommendations were made, enabling users to understand the reasoning behind AI-driven outcomes.
+
+*Importance:* Both transparency and explainability are crucial for:
+
+1. *Building trust*: Users are more likely to trust AI systems that are transparent and explainable.
+2. *Accountability*: Transparency and explainability enable accountability for AI-driven decisions and outcomes.
+3. *Improvement*: Understanding AI decision-making processes and outcomes can inform improvements and reduce errors.
+
+*Q3: GDPR Impact on AI Development*
+
+The General Data Protection Regulation (GDPR) impacts AI development in the EU by:
+
+1. *Regulating data collection and usage*: GDPR sets strict guidelines for collecting, processing, and storing personal data, affecting AI systems that rely on such data.
+2. *Ensuring transparency and accountability*: GDPR requires organizations to provide transparency into AI-driven decision-making processes and ensure accountability for outcomes.
+3. *Data subject rights*: GDPR grants individuals rights over their personal data, including the right to access, rectify, and erase their data.
+
+*Ethical Principles Matching*
+
+1. *Non-maleficence*: Ensuring AI does not harm individuals or society.
+2. *Autonomy*: Respecting users’ right to control their data and decisions.
+3. *Sustainability*: Designing AI to be environmentally friendly.
+4. *Justice*: Fair distribution of AI benefits and risks.
+
+These principles are essential for developing responsible AI systems that prioritize human well-being and environmental sustainability.
