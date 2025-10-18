@@ -1,0 +1,34 @@
+*Case 1: Biased Hiring Tool*
+
+*Source of Bias:*
+
+1. *Training Data*: The AI recruiting tool was likely trained on historical data that reflected Amazon's existing workforce demographics, which was predominantly male.
+2. *Model Design*: The model may have been designed to prioritize keywords or characteristics more commonly associated with male candidates.
+
+*Fixes:*
+
+1. *Diverse and Representative Training Data*: Collect and use diverse and representative data to retrain the model, ensuring that it is not biased towards specific demographics.
+2. *Data Preprocessing*: Implement data preprocessing techniques to remove sensitive information (e.g., gender, age) from the training data.
+3. *Fairness Metrics and Monitoring*: Implement fairness metrics and monitoring to detect and address potential biases in the model's predictions.
+
+*Metrics to Evaluate Fairness:*
+
+1. *Demographic Parity*: Compare the selection rates of different demographic groups (e.g., men vs. women).
+2. *Equal Opportunity*: Evaluate whether the model is equally accurate for different demographic groups.
+3. *Disparate Impact*: Analyze the impact of the model's predictions on different demographic groups.
+
+*Case 2: Facial Recognition in Policing*
+
+*Ethical Risks:*
+
+1. *Wrongful Arrests*: Misidentification of individuals can lead to wrongful arrests and detention.
+2. *Privacy Violations*: Facial recognition technology can infringe on individuals' right to privacy, particularly in public spaces.
+3. *Bias and Discrimination*: Biased facial recognition systems can perpetuate existing social inequalities and discriminatory practices.
+
+*Policies for Responsible Deployment:*
+
+1. *Transparency and Accountability*: Ensure transparency into the development and deployment of facial recognition systems, and establish accountability mechanisms for misuse or errors.
+2. *Data Quality and Validation*: Ensure that facial recognition systems are trained on high-quality, diverse data and are regularly validated to minimize errors.
+3. *Use Guidelines and Oversight*: Establish clear guidelines for the use of facial recognition technology in policing, including requirements for probable cause and judicial oversight.
+
+By implementing these policies and prioritizing fairness, transparency, and accountability, we can mitigate the risks associated with facial recognition technology and ensure its responsible use in policing.
